@@ -6,4 +6,4 @@ The SVM algorithm with a linear kernel was chosen. The features extracted from t
 
 The results of the classification showed a general accuracy of 36%, with notable difficulties in differentiating between similar animal species such as spiders and butterflies, and dogs and horses. 
 
-
+A project for the Faculty of Automatic Control and Computers, University Politehnica of Bucharest.
