@@ -4,6 +4,4 @@ Classification of animal images using the Support Vector Machine (SVM) algorithm
 
 I've chosen the SVM algorithm with a linear kernel. The features extracted from the images through HOG were used as input to the SVM classifier. The model was trained on 80% of the dataset (4,000 images) and tested on the remaining 20% (1,000 images). The resolution of the images was set to 128x128 pixels.
 
-The results of the classification showed a general accuracy of 36%, with notable difficulties in differentiating between similar animal species. 
-
 A project for the Faculty of Automatic Control and Computers, University Politehnica of Bucharest.
